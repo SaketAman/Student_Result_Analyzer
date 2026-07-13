@@ -1,3 +1,4 @@
+<img width="1262" height="578" alt="Screenshot 2026-07-13 151502" src="https://github.com/user-attachments/assets/d1ab5f4a-9576-4025-b2d5-5a1293a9e9c3" />
 # Student Result Analyzer Dashboard
 
 ## Project Overview
